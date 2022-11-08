@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Logo gaming-partner" src="image.png" />
+	<img alt="Logo gaming-partner" src="logo.png" />
 </h1>
 
 <h3 align="center">
